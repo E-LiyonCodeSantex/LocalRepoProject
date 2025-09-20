@@ -1,1 +1,3 @@
 hello.txt Git and GitHub!
+
+NOTE: this is the for the alx backend projects
